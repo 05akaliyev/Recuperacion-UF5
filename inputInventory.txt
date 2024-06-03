@@ -1,0 +1,6 @@
+Product:Manzana;Wholesaler Price:10.0;Stock:10;
+Product:Fresa;Wholesaler Price:5.0;Stock:20;
+Product:Limon;Wholesaler Price:2.0;Stock:10;
+Product:Platano;Wholesaler Price:3.0;Stock:30;
+Product:Melon;Wholesaler Price:1.0;Stock:0;
+Product:Sandia;Wholesaler Price:1.0;Stock:7;
